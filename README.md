@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">  
-  Anotações e o possíveis devaneios sobre Gatsby =)
+  Anotações e possíveis devaneios sobre Gatsby =)
 </h2>
 
 ## :robot: - Indíce
@@ -39,4 +39,4 @@
 ****
 
 - [Link do curso](https://www.udemy.com/course/gatsby-crie-um-site-pwa-com-react-graphql-e-netlify-cms/)
-- [Github do projeto]: https://github.com/willianjusten/gatsby-course/
+- [Github do projeto](https://github.com/willianjusten/gatsby-course/)
