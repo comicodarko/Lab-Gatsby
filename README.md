@@ -13,8 +13,8 @@
 ## :robot: - Indíce
 
 - 1 - [Indtrodução](https://github.com/comicodarko/Lab-Gatsby)
-- 2 - [Gatsby e sua estrutura]()
-  
+- 2 - [Gatsby e sua estrutura](https://github.com/comicodarko/Lab-Gatsby/tree/master/02%20-Gatsby%20e%20sua%20estrutura)
+- 3 - [Gatsby e GraphQL]()
 
 ## :rocket: - Stack uitlizada
 
