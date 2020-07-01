@@ -2,7 +2,7 @@
 
 ## :robot: - Indíce
 
-- 1 - [Indtrodução](https://github.com/comicodarko/Lab-Gatsby)
+- 1 - [Introdução](https://github.com/comicodarko/Lab-Gatsby)
 - 2 - [Gatsby e sua estrutura](#2)
   - 2.0 - [Iniciando o projeto e entendendo os comandos do gatsby-cli](#2-0)
   - 2.1 - [Entendendo a estrutura](#2-1)

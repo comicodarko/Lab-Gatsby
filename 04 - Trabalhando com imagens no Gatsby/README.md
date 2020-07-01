@@ -1,8 +1,8 @@
-# Gatsby e sua estrutura
+# Trabalhando com imagens no Gatsby
 
 ## :robot: - Indíce
 
-- 1 - [Indtrodução](https://github.com/comicodarko/Lab-Gatsby)
+- 1 - [Introdução](https://github.com/comicodarko/Lab-Gatsby)
 - 2 - [Gatsby e sua estrutura](https://github.com/comicodarko/Lab-Gatsby/tree/master/02%20-Gatsby%20e%20sua%20estrutura)
 - 3 - [Gatsby e GraphQL](https://github.com/comicodarko/Lab-Gatsby/tree/master/03%20-%20Gatsbt%20e%20GraphQL)
 - 4 - [Gatsby e imagens](#4-1)

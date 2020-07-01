@@ -1,10 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Baixa Sociedade`,
-    description: `Lorem ipsum dolor sit amet`,
-    author: `@lowssociety`,
+    title: `Fábio Cômico`,
+    position: `ReactJS, React Native, Gatsby`,
+    description: `Apenas anotações e possíveis devaneios.`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

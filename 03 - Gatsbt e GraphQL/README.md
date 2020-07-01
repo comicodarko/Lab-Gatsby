@@ -1,8 +1,8 @@
-# Gatsby e sua estrutura
+# Gatsby e GraphQL
 
 ## :robot: - Indíce
 
-- 1 - [Indtrodução](https://github.com/comicodarko/Lab-Gatsby)
+- 1 - [Introdução](https://github.com/comicodarko/Lab-Gatsby)
 - 2 - [Gatsby e sua estrutura](https://github.com/comicodarko/Lab-Gatsby/tree/master/02%20-Gatsby%20e%20sua%20estrutura)
 - 3 - [Gatsby e GraphQL](#3-1)
   - 3.1 - [Introdução ao GraphQL](#3-1)
