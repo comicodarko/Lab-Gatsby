@@ -23,7 +23,7 @@ PostItem.propTypes = {
   background: PropTypes.string,
   category: PropTypes.string.isRequired,
   date: PropTypes.string.isRequired,
-  timeToRead: PropTypes.string,   
+  timeToRead: PropTypes.number,   
   title: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
 }
