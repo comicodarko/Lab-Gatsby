@@ -18,7 +18,8 @@
 - 4 - [Gatsby e imagens](https://github.com/comicodarko/Lab-Gatsby/tree/master/04%20-%20Trabalhando%20com%20imagens%20no%20Gatsby)
 - 5 - [Layout e Style Components](https://github.com/comicodarko/Lab-Gatsby/tree/master/05%20-%20Layout%20e%20Styled%20Components)
 - 6 - [GraphQL + Remark](https://github.com/comicodarko/Lab-Gatsby/tree/master/06%20-%20GraphQL%20%2B%20Remark)
-- 7 - [Estruturando a Home](#7)
+- 7 - [Estruturando a Home](#7https://github.com/comicodarko/Lab-Gatsby/tree/master/07%20-%20Estruturando%20a%20Home)
+- 8 - [Estruturando a Página de Posts](#8)
 
 ## :rocket: - Stack uitlizada
 
